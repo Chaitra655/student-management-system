@@ -1,37 +1,49 @@
 Student Management System
 
-1. Project Introduction
+Project Description
 
-The Student Management System is a software project designed to manage student information efficiently.
+The Student Management System is a project designed to organize and manage student-related information through different modules.
 
-2. Objectives
+Objectives
 
-- Manage student details.
-- Provide student login functionality.
-- Maintain student records.
-- Organize software development tasks.
-- Track project progress.
+- Organize student information.
+- Simplify student registration.
+- Provide easy access to academic details.
+- Allow students to manage their profiles.
 
-3. Technologies Used
+Modules
+
+1. Student Login Module
+
+Allows registered students to log in securely.
+
+2. Student Registration Module
+
+Allows new students to register and submit their details.
+
+3. Student Dashboard Module
+
+Provides access to student information, attendance, academic performance and notifications.
+
+4. Student Profile Management Module
+
+Allows students to view and update their personal information.
+
+Project Management
+
+This project uses GitHub for:
+
+- Issue tracking
+- Branch management
+- Pull Requests
+- Code review
+- Project board management
+
+Technologies Used
 
 - GitHub
-- Git
-- Agile Methodology
 - Markdown
 
-4. Agile Tool
+Project Status
 
-GitHub is used to manage project tasks, track changes, collaborate and monitor development progress.
-
-5. Project Workflow
-
-1. Project Planning
-2. Task Creation
-3. Development
-4. Testing
-5. Review
-6. Completion
-
-6. Conclusion
-
-This project demonstrates how GitHub supports Agile software development through task management, collaboration and version control.
+Documentation and GitHub workflow completed.
